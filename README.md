@@ -57,6 +57,13 @@ python predict.py
 }
 ```
 
+
+## 训练记录
+额欸，没有训练完，因为autodl没钱了
+https://swanlab.cn/@duan_daniel/Qwen2-NER-fintune/runs/lfgm8jtsyc7nvasxxeyxd/chart
+<img width="2105" height="726" alt="image" src="https://github.com/user-attachments/assets/1159c11c-8037-4ff6-8df7-8b3344aa30c2" />
+
+
 ## 输出示例
 
 输入：
