@@ -1,6 +1,7 @@
 # NER_QWEN - 基于 Qwen2 的命名实体识别
 
 基于通义千问 Qwen2-1.5B-Instruct 模型的命名实体识别（NER）项目，使用 LoRA 进行参数高效微调。
+源项目：https://github.com/Zeyi-Lin/LLM-Finetune
 
 ## 功能特性
 
